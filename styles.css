@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+:root{
+	background-color: rgb(204, 204, 204);
+}
+.headings{
+	text-align: center;
+}
+div{
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: white;
+}
+ul{
+	list-style: none;
+	margin-left: 0px;
+}
+#div2{
+	width: 80%; 
+	margin-left: 10%;
+	padding: 10px;
+}
+.player_one{
+	width: 95%;
+	background-color: rgb(255,255,255);
+	padding: 10px;
+	border-radius: 10px;
+}
+.player_two{
+	width: 95%;
+	background-color: rgb(255,255,255);
+	padding: 10px;
+	border-radius: 10px;
+}
+a{
+	target: _blank;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
